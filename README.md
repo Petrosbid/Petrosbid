@@ -1,4 +1,4 @@
-![telegram](https://github.com/user-attachments/assets/e7bd4e7d-1695-43a3-a43f-d1c3d22dd776)# 💫 About Me:
+# 💫 About Me:
 💕 Love coding <br>👨‍💻 Hardworking<br>🤩 Curious about new things<br>
 
 
