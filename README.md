@@ -4,7 +4,7 @@
 ## 🌐 Socials:
 [![Telegram](https://github.com/user-attachments/assets/8268963d-3a78-4d4e-b944-4cf17f0254ea)](https://t.me/mhmd_bidokhti)
 
-[![LinkedIn](https://www.linkedin.com/in/mohammad-bidokhti/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-bidokhti/) 
 
 
 
