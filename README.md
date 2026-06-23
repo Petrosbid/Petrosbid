@@ -10,7 +10,6 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Petrosbid&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Mohammad Bidokhti GitHub stats — stars, commits, PRs, and issues" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Petrosbid&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Mohammad Bidokhto most used programming languages on GitHub" />
 </div>
 
 <div align="center">
@@ -20,9 +19,9 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=alirezarezvani&theme=tokyo-night&hide_border=true&area=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=alirezarezvani&theme=minimal&hide_border=true&area=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alirezarezvani&theme=tokyo-night&hide_border=true&area=true" alt="Alireza Rezvani GitHub contribution activity graph" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Petrosbid&theme=tokyo-night&hide_border=true&area=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Petrosbid&theme=minimal&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Petrosbid&theme=tokyo-night&hide_border=true&area=true" alt="Mohammad Bidokhti GitHub contribution activity graph" width="100%" />
 </picture>
 
 ---
