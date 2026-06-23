@@ -54,7 +54,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Petrosbid&theme=tokyo-night&hide_border=true&area=true" alt="Mohammad Bidokhti GitHub contribution activity graph" width="100%" />
 </picture>
 
-## Connect
+## Connect Me
 
 <div align="center">
   <a href="https://t.me/mhmd_bid" target="_blank">
