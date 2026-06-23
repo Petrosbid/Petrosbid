@@ -41,13 +41,13 @@
 
 <div align="center">
   <a href="https://t.me/mhmd_bid" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Alireza Rezvani on Substack" />
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Mohammad Bidokhti on Telegram" />
   </a>
   <a href="https://www.linkedin.com/in/mohammad-bidokhti/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Alireza Rezvani on LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mohammad Bidokhti on LinkedIn" />
   </a>
   <a href="bidmohammad149@googlemail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Alireza Rezvani" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Mohammad Bidokhti" />
   </a>
 </div>
 
@@ -78,4 +78,6 @@
 </picture>
 
 ### ✍️ Random Dev Quote
-<div style= "align :center;">![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)</div>
+<div style="text-align: center;">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote">
+</div>
