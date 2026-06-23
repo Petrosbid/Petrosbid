@@ -20,16 +20,32 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React — JavaScript UI library" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS — utility-first CSS framework" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter — cross-platform mobile framework" />
-  <img src="https://img.shields.io/badge/React_native-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui — React component library" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=shadcnui&logoColor=white" alt="REACT_NATIVE" />
 </p>
 
 ### Backend and Data
 <p align="left">
-  <img src="https://img.shields.io/badge/Django-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js — JavaScript runtime" />
+  <img src="https://img.shields.io/badge/Django-green?style=for-the-badge&logo=node.js&logoColor=white" alt="DJANGO" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL — relational database" />
   <img src="https://img.shields.io/badge/Redis-CC0000?style=for-the-badge&logo=redis&logoColor=white" alt="Redis — in-memory data store" />
-  <img src="https://img.shields.io/badge/REST_API-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL — API query language" />
+  <img src="https://img.shields.io/badge/Django_REST-FF1744?style=for-the-badge&logo=django&logoColor=white" alt="DRF — API query language" />
 </p>
+
+---
+
+## Connect
+
+<div align="center">
+  <a href="https://t.me/mhmd_bid" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Alireza Rezvani on Substack" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohammad-bidokhti/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Alireza Rezvani on LinkedIn" />
+  </a>
+  <a href="bidmohammad149@googlemail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Alireza Rezvani" />
+  </a>
+</div>
 
 ---
 
@@ -62,4 +78,4 @@
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27&height=120&section=footer)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div center>![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)</div>
