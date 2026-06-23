@@ -2,15 +2,20 @@
 <h1 align="center"> Woman, Life, Freedom 🦁☀️</h1>
 
 # 💫 About Me:
-💵 happy to accept projects<br>💕 Love coding <br>👨‍💻 Hardworking<br>🤩 Curious about new things<br>
+💵 happy to accept projects<br>
+💕 Love coding <br>
+👨‍💻 Hardworking<br>
+🤩 Curious about new things<br>
+🧠 Learning AI <br>
+👥 Looking for programmer firends
 
----
+
 
 ## Tech Stack
 
 ### AI and Agents
 <p align="left">
-  <img src="https://img.shields.io/badge/Gemini-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code — AI coding assistant by Anthropic" />
+  <img src="https://img.shields.io/badge/Gemini-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Gemini" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python programming language" />
 </p>
 
@@ -75,7 +80,5 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Petrosbid/Petrosbid/output/github-contribution-grid-snake.svg">
 </picture>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27&height=120&section=footer)
-
 ### ✍️ Random Dev Quote
-<div center>![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)</div>
+<div align= "center">![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)</div>
