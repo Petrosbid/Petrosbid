@@ -78,6 +78,6 @@
 </picture>
 
 ### ✍️ Random Dev Quote
-<div style="text-align: center;">
+<div style="align: center;">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote">
 </div>
