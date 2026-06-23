@@ -36,22 +36,6 @@
   <img src="https://img.shields.io/badge/Django_REST-FF1744?style=for-the-badge&logo=django&logoColor=white" alt="DRF — API query language" />
 </p>
 
-
-## Connect
-
-<div align="center">
-  <a href="https://t.me/mhmd_bid" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Mohammad Bidokhti on Telegram" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohammad-bidokhti/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mohammad Bidokhti on LinkedIn" />
-  </a>
-  <a href="bidmohammad149@googlemail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Mohammad Bidokhti" />
-  </a>
-</div>
-
-
 ## GitHub Analytics
 
 <div align="center">
@@ -69,6 +53,21 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Petrosbid&theme=minimal&hide_border=true&area=true" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Petrosbid&theme=tokyo-night&hide_border=true&area=true" alt="Mohammad Bidokhti GitHub contribution activity graph" width="100%" />
 </picture>
+
+## Connect
+
+<div align="center">
+  <a href="https://t.me/mhmd_bid" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Mohammad Bidokhti on Telegram" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohammad-bidokhti/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mohammad Bidokhti on LinkedIn" />
+  </a>
+  <a href="bidmohammad149@googlemail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Mohammad Bidokhti" />
+  </a>
+</div>
+
 
 ---
 
