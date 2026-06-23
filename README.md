@@ -1,6 +1,5 @@
 
 <h1 align="center"> Woman, Life, Freedom 🦁☀️</h1>
-
 #  About Me
 💵 happy to accept projects<br>
 💕 Love coding <br>
