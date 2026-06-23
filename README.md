@@ -1,5 +1,5 @@
+<h1 align="center" style="border-bottom: none; padding-bottom: 0; margin-bottom: 0;">Woman, Life, Freedom 🦁☀️</h1>
 
-<h1 align="center"> Woman, Life, Freedom 🦁☀️</h1>
 #  About Me
 💵 happy to accept projects<br>
 💕 Love coding <br>
@@ -7,7 +7,6 @@
 🤩 Curious about new things<br>
 🧠 Learning AI <br>
 👥 Looking for programmer firends
-
 
 
 ## Tech Stack
