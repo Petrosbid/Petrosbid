@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 10em; font-weight: bold; margin-bottom: 0;">Woman, Life, Freedom 🦁☀️</p>
+<h1 align="center" style="border: none; ">Woman, Life, Freedom 🦁☀️</h1>
 
 ##  About Me
 💵 happy to accept projects<br>
