@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 2em; font-weight: bold; margin-bottom: 0;">Woman, Life, Freedom 🦁☀️</p>
+<p align="center" style="font-size: 10em; font-weight: bold; margin-bottom: 0;">Woman, Life, Freedom 🦁☀️</p>
 
 ##  About Me
 💵 happy to accept projects<br>
@@ -67,7 +67,7 @@
 </div>
 
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 <div align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote">
 </div>
