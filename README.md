@@ -3,10 +3,7 @@
 ##  About Me
 💵 happy to accept projects<br>
 💕 Love coding <br>
-👨‍💻 Hardworking<br>
-🤩 Curious about new things<br>
 🧠 Learning AI <br>
-👥 Looking for programmer firends
 
 
 ## Tech Stack
@@ -67,7 +64,7 @@
 </div>
 
 
-## ✍️ Random Dev Quote
+## Random Dev Quote
 <div align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote">
 </div>
