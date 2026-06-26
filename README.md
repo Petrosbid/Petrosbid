@@ -31,23 +31,7 @@
   <img src="https://img.shields.io/badge/Django_REST-FF1744?style=for-the-badge&logo=django&logoColor=white" alt="DRF — API query language" />
 </p>
 
-## GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Petrosbid&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Mohammad Bidokhti GitHub stats — stars, commits, PRs, and issues" />
-</div>
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Petrosbid&theme=tokyonight&hide_border=true&card_width=500" alt="Mohammad Bidokhti GitHub streak — current and longest contribution streak" />
-  </a>
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Petrosbid&theme=tokyo-night&hide_border=true&area=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Petrosbid&theme=minimal&hide_border=true&area=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Petrosbid&theme=tokyo-night&hide_border=true&area=true" alt="Mohammad Bidokhti GitHub contribution activity graph" width="100%" />
-</picture>
 
 ## Connect Me
 
