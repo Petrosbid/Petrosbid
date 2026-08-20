@@ -8,10 +8,12 @@
 
 ## Tech Stack
 
-### AI and Agents
+### languages
 <p align="left">
-  <img src="https://img.shields.io/badge/Gemini-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python programming language" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
 ### Frontend and Full Stack
@@ -34,13 +36,11 @@
 ## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Petrosbid&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Mohammad Bidokhti GitHub stats — stars, commits, PRs, and issues" />
+  [![mohammad's GitHub stats](https://github-stats-extended.vercel.app/api?username=Petrosbid)](https://github.com/stats-organization/github-stats-extended)
 </div>
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Petrosbid&theme=tokyonight&hide_border=true&card_width=500" alt="Mohammad Bidokhti GitHub streak — current and longest contribution streak" />
-  </a>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Petrosbid&theme=radical&hide_border=true)](https://git.io/streak-stats)
 </div>
 
 <picture>
