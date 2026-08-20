@@ -35,10 +35,6 @@
 
 ## GitHub Analytics
 
-[![mohammad's GitHub stats](https://github-stats-extended.vercel.app/api?username=Petrosbid)](https://github.com/stats-organization/github-stats-extended)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Petrosbid&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Petrosbid&theme=tokyo-night&hide_border=true&area=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Petrosbid&theme=minimal&hide_border=true&area=true" />
