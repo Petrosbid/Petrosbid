@@ -1,9 +1,17 @@
 <h1 align="center" style="border: none; ">Woman, Life, Freedom</h1>
 
 ##  About Me
-💵 happy to accept projects<br>
-💕 Love coding <br>
-🧠 Learning AI <br>
+👋 Hi, I'm Mohammad — a Backend Developer focused on Python and Django.
+
+💻 I build web applications, REST APIs, and modular backend systems using Python, Django, and Django REST Framework.
+
+🤖 I'm also actively learning and exploring Artificial Intelligence, Machine Learning, and AI-powered applications. I enjoy building projects that combine backend technologies with AI, APIs, and intelligent systems.
+
+🧠 I'm interested in backend architecture, AI, problem solving, and building practical software that solves real-world problems.
+
+🚀 Currently learning, building, experimenting, and continuously improving my software engineering and AI skills.
+
+
 
 
 ## Tech Stack
